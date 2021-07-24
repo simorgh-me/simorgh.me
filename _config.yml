@@ -7,7 +7,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://simorgh.me" # the base hostname & protocol for your site
 
 author:
-  github: simorgh.me
+  github: simorgh-me
   email: example@email.com
 
 

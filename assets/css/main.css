@@ -71,7 +71,6 @@
     list-style-type: none; }
 
   .menu__entry {
-    float: right;
     display: inline-block; }
 
   .menu__entry a {

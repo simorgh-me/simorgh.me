@@ -1,0 +1,198 @@
+/*
+ * Globals
+ */
+
+/* Links */
+
+
+
+@font-face {
+  font-family: Vazir;
+  src: url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.eot');
+  src: url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.woff2') format('woff2'),
+       url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.woff') format('woff'),
+       url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Yekan';
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.eot');
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.woff') format('woff'),
+		 url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.ttf') format('truetype');
+    font-weight: normal;
+}
+
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
+  background-color: #fff;
+  border: .05rem solid #fff;
+}
+
+
+/*
+ * Base structure
+ */
+
+html,
+body {
+  height: 100%;
+  background-color: #545454;
+}
+
+body {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-pack: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  color: #fff;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+}
+
+@media (min-width: 830px) {
+.container.hh {
+    height: 100% !important;
+}
+  }
+
+
+
+/*
+ * Header
+ */
+.masthead {
+  margin: 3rem 0;
+}
+
+.masthead-brand {
+  margin-bottom: 0;
+}
+
+.nav-masthead .nav-link {
+  padding: .35rem 0.35em;
+  font-weight: 700;
+  font-size: .9em !important;
+  color: rgba(255, 255, 255, .5);
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+  font-family: 'Yekan';
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: rgba(255, 255, 255, .25);
+}
+
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem;
+}
+
+.nav-masthead .active {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+@media (min-width: 48em) {
+  .masthead-brand {
+    float: left;
+  }
+  .nav-masthead {
+    float: right;
+  }
+}
+
+
+/*
+ * Cover
+ */
+.cover {
+  padding: 0 1.5rem;
+}
+.cover .btn-lg {
+  padding: .75rem 1.25rem;
+  font-weight: 700;
+}
+
+
+/*
+ * Footer
+ */
+.mastfoot {
+  color: rgba(255, 255, 255, .5);
+}
+
+.container.xsc {
+    border: solid 2px #b4b4b4;
+    margin: 15% 0;
+}
+.starter-template {
+    text-align: right;
+    font-size: 1rem;
+    font-family: gandom;
+    margin: 5% 0;
+}
+.fonta {
+    font-family: yekan !important;
+    color: #ffa220;
+}
+@media (max-width: 720px) {
+.immg img {
+    width: 100%;
+    margin: 5px;
+} }
+
+@media (min-width: 900px) {
+.immg img {
+    margin: 10%;
+} }
+
+.imvmg.sdf img {
+    margin: 1%;
+}
+@media (max-width: 720px) {
+.imvmg.sdf img{
+    width: 100%;
+
+} }
+
+.fona {
+    font-family: vazir;
+    text-align: justify;
+}
+.jumbotron.a {
+    background-color: #676767;
+    text-align: right;
+    margin: 2% 4%;
+}
+.fonta.ss {
+    text-align: center;
+    margin: 0 0 .8em 0;
+}
+.row.asd a {
+    margin: 0 8px;
+}
+
+p.float-right.fonta.thy {
+    margin: 0 37px 0 0;
+}
+
+.float-left.as {
+    margin: 0 0 0 25px;
+}

@@ -2,13 +2,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="سیمرغ جامعه علاقه مند به عدم تمرکز">
-
-
     <title>سیمرغ،جامعه علاقه مند به عدم تمرکز</title>
 
 <link rel="stylesheet" type="text/css" href="https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-    <!-- Custom styles for this template -->
+    <!-- Custom styles -->
     <link href="assets\css\style.css" rel="stylesheet">
   </head>
 
@@ -58,16 +56,8 @@
 
       </div>
 	</div>
-
- 
-
-	
-
-	
-    
 <br><br>
 
-  
 <footer class="cover-container ">
    
    <p class="float-right fonta thy">سیمرغ، جامعه‌ی علاقه‌مند به عدم تمرکز</p>   <div class="float-left as">

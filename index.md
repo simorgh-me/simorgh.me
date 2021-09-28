@@ -71,7 +71,7 @@
   
 <footer class="cover-container ">
    
-   <p class="float-right fonta thy">سیمرغ جامعه علاقه مند به عدم تمرکز</p>   <div class="float-left as">
+   <p class="float-right fonta thy">سیمرغ، جامعه‌ی علاقه‌مند به عدم تمرکز</p>   <div class="float-left as">
 	   <a target="_blank" href="https://twitter.com/simorgh_bc"><i class="fab fa-twitter-square" style="font-size: 36px;color: #969696;"></i></a>
 			   <a target="_blank" href="https://www.facebook.com/profile.php?id=100073400014882"><i class="fab fa-facebook-square" style="font-size: 36px;color: #969696;"></i></a>
 			   <a target="_blank" href="https://www.reddit.com/user/simorgh_bc/"><i class="fab fa-reddit-square" style="font-size: 36px;color: #969696;"></i></a>

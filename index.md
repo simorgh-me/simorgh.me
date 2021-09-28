@@ -30,7 +30,7 @@
       </header>
 <div role="main" class="inner cover">
 
-<div class="immg"><a href="default.asp"><img src="\assets\img\logo.png" alt="simorgh logo"></a></div>
+<div class="immg"><a href="https://simorgh.me"><img src="\assets\img\logo.png" alt="simorgh logo"></a></div>
 
 </div>
 

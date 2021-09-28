@@ -1,10 +1,10 @@
 <html lang="fa" dir="rtl"><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="سیمرغ جامعه علاقه مند به عدم تمرکز">
 
-    <title>سیمرع</title>
+
+    <title>سیمرغ،جامعه علاقه مند به عدم تمرکز</title>
 
 <link rel="stylesheet" type="text/css" href="https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
@@ -13,10 +13,9 @@
   </head>
 
   <body class="text-center">
-      <main role="main" class="cover-container">
+   <main role="main" class="cover-container">
     <div class="container hh">
-	
-	
+
       <header class="masthead mb-auto">
         <div class="inner">
           <nav class="nav nav-masthead justify-content-center">

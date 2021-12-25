@@ -1,4 +1,4 @@
-<head>@import url("https://learnmeabitcoin.simorgh.me/assets/css/style.css");</head>
+<head><link rel="stylesheet" type="text/css" href="https://learnmeabitcoin.simorgh.me/assets/css/style.css"></head>
 
 <div dir="rtl">
     <br>

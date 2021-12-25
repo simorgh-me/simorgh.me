@@ -1,4 +1,7 @@
-<head><link rel="stylesheet" type="text/css" href="https://learnmeabitcoin.simorgh.me/assets/css/style.css"></head>
+<head><link rel="stylesheet" type="text/css" href="https://learnmeabitcoin.simorgh.me/assets/css/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://learnmeabitcoin.simorgh.me/assets/js/respond.js"></script>    
+</head>
 <div class="wrapper"><section>
 <div dir="rtl">
     <br>

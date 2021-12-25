@@ -1,3 +1,4 @@
+@import url("https://learnmeabitcoin.simorgh.me/assets/css/style.css");
 <div dir="rtl">
     <br>
     <h2>فهرست</h2>

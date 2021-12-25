@@ -1,5 +1,5 @@
 <head><link rel="stylesheet" type="text/css" href="https://learnmeabitcoin.simorgh.me/assets/css/style.css"></head>
-
+<div class="wrapper"><section>
 <div dir="rtl">
     <br>
     <h2>فهرست</h2>
@@ -77,3 +77,4 @@
         </li>
     </ul>
 </div>
+</section></div>
